@@ -12,6 +12,7 @@
 		63CBD7922B14AD9800925F55 /* Ticket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CBD7912B14AD9800925F55 /* Ticket.swift */; };
 		63CBD7942B14AE7D00925F55 /* Bag.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CBD7932B14AE7D00925F55 /* Bag.swift */; };
 		63CBD7962B14B36B00925F55 /* Audience.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CBD7952B14B36B00925F55 /* Audience.swift */; };
+		63CBD7982B14B7EA00925F55 /* TicketOffice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CBD7972B14B7EA00925F55 /* TicketOffice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		63CBD7912B14AD9800925F55 /* Ticket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ticket.swift; sourceTree = "<group>"; };
 		63CBD7932B14AE7D00925F55 /* Bag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bag.swift; sourceTree = "<group>"; };
 		63CBD7952B14B36B00925F55 /* Audience.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Audience.swift; sourceTree = "<group>"; };
+		63CBD7972B14B7EA00925F55 /* TicketOffice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketOffice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				63CBD7912B14AD9800925F55 /* Ticket.swift */,
 				63CBD7932B14AE7D00925F55 /* Bag.swift */,
 				63CBD7952B14B36B00925F55 /* Audience.swift */,
+				63CBD7972B14B7EA00925F55 /* TicketOffice.swift */,
 			);
 			path = Objects;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 				63CBD7962B14B36B00925F55 /* Audience.swift in Sources */,
 				63CBD7942B14AE7D00925F55 /* Bag.swift in Sources */,
 				63CBD7892B14AC3800925F55 /* main.swift in Sources */,
+				63CBD7982B14B7EA00925F55 /* TicketOffice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
