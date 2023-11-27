@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		63CBD7892B14AC3800925F55 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CBD7882B14AC3800925F55 /* main.swift */; };
 		63CBD7902B14ACBB00925F55 /* Invitation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CBD78F2B14ACBB00925F55 /* Invitation.swift */; };
+		63CBD7922B14AD9800925F55 /* Ticket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CBD7912B14AD9800925F55 /* Ticket.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		63CBD7852B14AC3800925F55 /* Objects */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Objects; sourceTree = BUILT_PRODUCTS_DIR; };
 		63CBD7882B14AC3800925F55 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		63CBD78F2B14ACBB00925F55 /* Invitation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Invitation.swift; sourceTree = "<group>"; };
+		63CBD7912B14AD9800925F55 /* Ticket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ticket.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				63CBD7882B14AC3800925F55 /* main.swift */,
 				63CBD78F2B14ACBB00925F55 /* Invitation.swift */,
+				63CBD7912B14AD9800925F55 /* Ticket.swift */,
 			);
 			path = Objects;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				63CBD7902B14ACBB00925F55 /* Invitation.swift in Sources */,
+				63CBD7922B14AD9800925F55 /* Ticket.swift in Sources */,
 				63CBD7892B14AC3800925F55 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
